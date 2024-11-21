@@ -24,26 +24,21 @@
 */
 var NAVTREE =
 [
-  [ "Algorithms_in_C++", "index.html", [
-    [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md100", null ],
-      [ "Features", "index.html#autotoc_md101", null ],
-      [ "Documentation", "index.html#autotoc_md102", null ],
-      [ "Contributions", "index.html#autotoc_md103", null ]
-    ] ],
-    [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
-      [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
-      [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md6", null ],
-      [ "Enforcement Responsibilities", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md7", null ],
-      [ "Scope", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md8", null ],
-      [ "Enforcement", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md9", null ],
-      [ "Enforcement Guidelines", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md10", [
-        [ "1. Correction", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md11", null ],
-        [ "2. Warning", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md12", null ],
-        [ "3. Temporary Ban", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md13", null ],
-        [ "4. Permanent Ban", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md14", null ]
+  [ "TheAlgorithms/C++", "index.html", [
+    [ "The Algorithms - C++", "index.html", "index" ],
+    [ "Contributor Covenant Code of Conduct", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html", [
+      [ "Our Pledge", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md5", null ],
+      [ "Our Standards", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md6", null ],
+      [ "Enforcement Responsibilities", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md7", null ],
+      [ "Scope", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md8", null ],
+      [ "Enforcement", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md9", null ],
+      [ "Enforcement Guidelines", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md10", [
+        [ "Correction", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md11", null ],
+        [ "Warning", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md12", null ],
+        [ "Temporary Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md13", null ],
+        [ "Permanent Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md14", null ]
       ] ],
-      [ "Attribution", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md15", null ]
+      [ "Attribution", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md15", null ]
     ] ],
     [ "Code style convention", "dc/d64/md__coding_guidelines.html", [
       [ "User-interface", "dc/d64/md__coding_guidelines.html#autotoc_md18", null ],
@@ -57,52 +52,58 @@ var NAVTREE =
         [ "Making Changes", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md26", [
           [ "Code", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md27", null ],
           [ "Documentation", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md28", null ],
-          [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md29", null ],
-          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md30", null ],
-          [ "New File Name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31", null ],
-          [ "New Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32", null ],
-          [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md33", null ]
+          [ "Test", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md29", [
+            [ "Self-test examples", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md30", null ]
+          ] ],
+          [ "Typical structure of a program", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31", null ],
+          [ "File Name guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32", null ],
+          [ "Directory guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md33", [
+            [ "Integrating CMake in a new directory", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md34", null ]
+          ] ],
+          [ "Commit Guidelines", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35", null ]
         ] ],
-        [ "Pull Requests", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md34", [
-          [ "Building Locally", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35", null ],
-          [ "Static Code Analyzer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md36", null ],
-          [ "Code Formatter", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md37", null ],
-          [ "GitHub Actions", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md38", null ]
+        [ "Pull Requests", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md36", [
+          [ "Building Locally", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md37", null ],
+          [ "Static Code Analyzer", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md38", null ],
+          [ "Code Formatter", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md39", null ],
+          [ "GitHub Actions", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md40", null ]
         ] ]
       ] ]
     ] ],
     [ "Backtracking", "d5/d88/md__d_i_r_e_c_t_o_r_y.html", [
-      [ "Bit Manipulation", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44", null ],
-      [ "Ciphers", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45", null ],
-      [ "Cpu Scheduling Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
-      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
-      [ "Divide And Conquer", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
-      [ "Dynamic Programming", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
-      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
-      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
-      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
-      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
-      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
-      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
-      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
-      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
-      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
-      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
-      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
-      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
-      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ]
+      [ "Bit Manipulation", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
+      [ "Ciphers", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
+      [ "Cpu Scheduling Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
+      [ "Data Structures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
+      [ "Divide And Conquer", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ],
+      [ "Dynamic Programming", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51", null ],
+      [ "Games", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
+      [ "Geometry", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
+      [ "Graph", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
+      [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
+      [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
+      [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
+      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
+      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
+      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
+      [ "Physics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
+      [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64", null ],
+      [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md65", null ],
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md68", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
-    [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
+    [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
-    [ "Modules", "modules.html", "modules" ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
@@ -116,7 +117,7 @@ var NAVTREE =
         [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -136,19 +137,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/inserter.html",
-"cpp/utility/forward.html",
-"d1/d9e/prefix__sum__array_8cpp.html#a7c8fd967c36dbba5fdf9c71faed604cf",
-"d3/d80/z__function_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"d4/ded/namespaceprobability.html",
-"d6/d26/classciphers_1_1_hill_cipher.html#ae77cad522fa44b8c985779a7188d2f41",
-"d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2",
-"d8/db1/binomial__calculate_8cpp.html",
-"da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#aaf762e88c66918d7afda4234f28a7ddf",
-"db/d9a/classuint128__t.html#a07945fe010079a35e18812636d5c70c3",
-"dd/d12/vigenere__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
-"de/d9b/prime__numbers_8cpp.html#a9575f3a51eeb8a57d657b3db6a4b441a",
-"functions_k.html"
+"d1/d83/classuint256__t.html#acac9901ab133caa57d058a377d873bf6",
+"d2/dc8/classdata__structures_1_1_stack.html#a2ac469fcc2229d273450e429139d90e6",
+"d4/d13/namespacebidirectional__dijkstra.html",
+"d5/d45/sublist__search_8cpp.html#a70ca8d0267008e09cfa50b4e2ddfbe53",
+"d6/d26/classciphers_1_1_hill_cipher.html#a405b0a28d66a61239d3565d5256f9cb5",
+"d7/d24/nqueen__print__all__solutions_8cpp_source.html",
+"d8/d76/morse__code_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html#a3078a5ccf45d6a7031dcf46e43de65b6",
+"da/d18/quadratic__equations__complex__numbers_8cpp.html#aacb1411ef2029e81f249c21e17c96fdb",
+"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a42535e20e97d85aa61271e0894cc0359",
+"dd/d47/namespacemath.html#a3d1e4db743b189f309327572663415f3",
+"de/d85/decimal__to__roman__numeral_8cpp.html#a003fb4e1b08279fe4cd50fbbc2782c2d",
+"df/dce/namespacegraph.html#a0e30e0dca68cb6e4f671440819b35b6a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
